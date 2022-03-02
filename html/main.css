@@ -1,4 +1,18 @@
-p{
-    color:rgb(0, 4, 255);
-    background-color: rgb(6, 139, 121)
+.address {
+    text-align: right;
+    font-style: normal;
+    line-height:25px;
+}
+.send {
+    text-align:left;
+    font-style: normal;
+    line-height:25px;
+  
+}
+.dear {
+    word-spacing:normal   
+    ;
+}
+.find_more {
+    line-height:25px;
 }
